@@ -1,0 +1,58 @@
+.container {
+  width: 70vw;
+  margin-left: 15vw;
+}
+
+.text-center {
+  text-align: center;
+}
+
+/***********/
+/* FLEXBOX */
+/***********/
+.flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+/* .justify-content-evenly {
+  justify-content: space-evenly;
+} */
+
+.align-items-center {
+  align-items: center;
+}
+
+.align-self-center {
+  align-self: center;
+}
+.align-self-end {
+  align-self: flex-end;
+}
+
+
+/********/
+/* GRID */
+/********/
+/* .grid-picture-right {
+  display: grid;
+  grid-template:  "sub-title picture"
+                  "description description";
+}
+.grid-picture-left {
+  display: grid;
+  grid-template:  "picture sub-title"
+                  "description description";
+}
+
+.sub-title {
+  grid-area: sub-title;
+}
+.picture {
+  grid-area: picture;
+}
+.description {
+  grid-area: description;
+} */

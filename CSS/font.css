@@ -1,0 +1,47 @@
+/********/
+/* FONT */
+/********/
+@font-face {
+  font-family: TitleFont;
+  src: url('../Fonts/BRADHITC.TTF');
+}
+
+/* @font-face {
+  font-family: TextFontLight;
+  src: url('../fonts/fira-code/static/FiraCode-Light.ttf');
+} */
+
+
+/*********/
+/* COLOR */
+/*********/
+h1, h2, h3, p, li, a {
+  color: black;
+  opacity: 0.8;
+}
+
+h1, h2, h3 {
+  font-family: TitleFont;
+}
+
+/********/
+/* SIZE */
+/********/
+h1 {
+  font-size: 5rem;
+}
+h3 {
+  font-size: 2rem;
+}
+
+li {
+  font-size: 1.5rem;
+}
+
+h1, h2 {
+  letter-spacing: 0.5rem;
+}
+
+h3 {
+  word-spacing: 1rem;
+}

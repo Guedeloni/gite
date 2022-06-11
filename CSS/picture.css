@@ -1,0 +1,15 @@
+#logo {
+  width: 5rem;
+  opacity: 0.9;
+}
+
+#accueil {
+  width: 40vw;
+  height: 20vw;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+              url(../Images/Ext/signal-2022-06-04-223750_032.jpeg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  border-radius: 0.5rem;
+}

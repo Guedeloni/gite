@@ -1,0 +1,15 @@
+@import url('component.css');
+@import url('effect.css');
+@import url('font.css');
+@import url('picture.css');
+@import url('position.css');
+
+html {
+  font-size: 100%;
+}
+
+body {
+  background: url('../Images/ToileJute01.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
