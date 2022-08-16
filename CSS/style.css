@@ -1,15 +1,19 @@
+@import url('color.css');
 @import url('component.css');
 @import url('effect.css');
 @import url('font.css');
 @import url('picture.css');
 @import url('position.css');
+@import url('size.css');
 
 html {
   font-size: 100%;
 }
 
 body {
-  background: url('../Images/ToileJute01.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: linear-gradient(45deg, #96b834ff 33%, #c0defcff 100%);
+  /* background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
+              url('../Images/trianglGreenBckg01.png'); */
+  background-size: contain;
+  background-repeat: repeat;
 }

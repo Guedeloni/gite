@@ -1,0 +1,14 @@
+/*
+--beau-blue: #c0defcff;
+--apple-green: #96b834ff;
+--battleship-grey: #898d8aff;
+--cadet: #606a71ff;
+--sage: #bfc397ff;
+*/
+
+.bkgrd-color-blue {
+  background-color: #c0defcff;
+}
+.bkgrd-color-green {
+  background-color: #96b834ff;
+}

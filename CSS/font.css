@@ -6,10 +6,10 @@
   src: url('../Fonts/BRADHITC.TTF');
 }
 
-/* @font-face {
+@font-face {
   font-family: TextFontLight;
-  src: url('../fonts/fira-code/static/FiraCode-Light.ttf');
-} */
+  src: url('../Fonts/benveno/BonvenoCF-Light.otf');
+}
 
 
 /*********/
@@ -24,18 +24,29 @@ h1, h2, h3 {
   font-family: TitleFont;
 }
 
+p, li, a {
+  font-family: TextFontLight;
+}
+
+
 /********/
 /* SIZE */
 /********/
 h1 {
   font-size: 5rem;
 }
+h2 {
+  font-size: 3rem;
+}
 h3 {
   font-size: 2rem;
 }
+p, #footer > ul > li {
+  font-size: 1.2rem;
+}
 
 li {
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 
 h1, h2 {
