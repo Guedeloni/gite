@@ -24,7 +24,7 @@ main,
 #exterieur,
 #tarifs {
   background: linear-gradient(180deg, rgba(150, 150, 150, 0.1) 30%, rgba(150, 150, 150, 0.2) 100%),
-    url('../Images/textWood01.jpg');
+    url('../Images/textWoodR1.jpg');
   background-size: cover;
   background-repeat: no-repeat;
 }
