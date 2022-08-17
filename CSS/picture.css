@@ -3,11 +3,33 @@
   opacity: 0.9;
 }
 
-#accueil {
+#photo-accueil {
   width: 40vw;
   height: 20vw;
   background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
               url(../Images/Ext/signal-2022-06-04-223750_032.jpeg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  border-radius: 0.5rem;
+}
+
+#photo-salon {
+  width: 30vw;
+  height: 20vw;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+              url(../Images/Int/signal-2022-06-04-223750_005.jpeg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  border-radius: 0.5rem;
+}
+
+#photo-cuisine {
+  width: 30vw;
+  height: 20vw;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+              url(../Images/Int/signal-2022-06-04-222647_001.jpeg);
   background-size: cover;
   background-repeat: none;
   background-position: center;

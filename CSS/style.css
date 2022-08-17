@@ -11,9 +11,27 @@ html {
 }
 
 body {
-  background: linear-gradient(45deg, #96b834ff 33%, #c0defcff 100%);
-  /* background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
-              url('../Images/trianglGreenBckg01.png'); */
-  background-size: contain;
-  background-repeat: repeat;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%);
+  background-color: black;
+  height: 500vh;
+}
+
+nav {
+  background: linear-gradient(45deg, #96b834ff 33%, #c0defcff 100%)
+}
+
+main,
+#exterieur,
+#tarifs {
+  background: linear-gradient(180deg, rgba(150, 150, 150, 0.1) 30%, rgba(150, 150, 150, 0.2) 100%),
+    url('../Images/textWood01.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#interieur,
+#pays,
+#jardin,
+#footer {
+  background-color: #606a71ff;
 }

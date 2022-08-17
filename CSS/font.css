@@ -15,9 +15,20 @@
 /*********/
 /* COLOR */
 /*********/
-h1, h2, h3, p, li, a {
+nav a,
+#interieur,
+#pays,
+#jardin,
+#footer {
   color: black;
-  opacity: 0.8;
+  /* opacity: 0.8; */
+}
+main,
+#exterieur,
+#tarifs {
+  color: white;
+  text-shadow: black -0.1rem 0.1rem 0rem,
+                black 0.1rem 0.1rem 0rem;
 }
 
 h1, h2, h3 {
