@@ -6,7 +6,7 @@
 #photo-accueil {
   width: 40vw;
   height: 20vw;
-  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
               url(../Images/Ext/signal-2022-06-04-223750_032.jpeg);
   background-size: cover;
   background-repeat: none;
@@ -17,7 +17,7 @@
 #photo-salon {
   width: 30vw;
   height: 20vw;
-  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
               url(../Images/Int/signal-2022-06-04-223750_005.jpeg);
   background-size: cover;
   background-repeat: none;
@@ -28,7 +28,7 @@
 #photo-cuisine {
   width: 30vw;
   height: 20vw;
-  background: linear-gradient(0deg, rgba(150, 150, 150, 0.3) 0%, rgba(150, 150, 150, 0.3) 50%),
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
               url(../Images/Int/signal-2022-06-04-222647_001.jpeg);
   background-size: cover;
   background-repeat: none;

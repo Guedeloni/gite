@@ -27,8 +27,8 @@ main,
 #exterieur,
 #tarifs {
   color: white;
-  text-shadow: black -0.1rem 0.1rem 0rem,
-                black 0.1rem 0.1rem 0rem;
+  /* text-shadow: black -0.1rem 0.1rem 0rem,
+                black 0.1rem 0.1rem 0rem; */
 }
 
 h1, h2, h3 {
@@ -37,6 +37,7 @@ h1, h2, h3 {
 
 p, li, a {
   font-family: TextFontLight;
+  font-weight: bold;
 }
 
 
@@ -53,7 +54,7 @@ h3 {
   font-size: 2rem;
 }
 p, #footer > ul > li {
-  font-size: 1.2rem;
+  font-size: 1.3rem;
 }
 
 li {
