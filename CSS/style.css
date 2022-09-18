@@ -4,7 +4,7 @@
 @import url('font.css');
 @import url('picture.css');
 @import url('position.css');
-@import url('size.css');
+/* @import url('size.css'); */
 
 html {
   font-size: 100%;

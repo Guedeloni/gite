@@ -7,7 +7,7 @@
   width: 40vw;
   height: 20vw;
   background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
-              url(../Images/Ext/signal-2022-06-04-223750_032.jpeg);
+              url(../Images/Ext/Maison/signal-2022-06-04-223750_032.jpeg);
   background-size: cover;
   background-repeat: none;
   background-position: center;
@@ -18,7 +18,7 @@
   width: 30vw;
   height: 20vw;
   background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
-              url(../Images/Int/signal-2022-06-04-223750_005.jpeg);
+              url(../Images/Int/SalonSaM/signal-2022-06-04-223750_005.jpeg);
   background-size: cover;
   background-repeat: none;
   background-position: center;
@@ -29,7 +29,29 @@
   width: 30vw;
   height: 20vw;
   background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
-              url(../Images/Int/signal-2022-06-04-222647_001.jpeg);
+              url(../Images/Int/Cuisine/signal-2022-06-04-222647_001.jpeg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  border-radius: 0.5rem;
+}
+
+#photo-terrasse {
+  width: 30vw;
+  height: 20vw;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
+              url(../Images/Ext/Terrasse/signal-2022-06-04-223750_017.jpeg);
+  background-size: cover;
+  background-repeat: none;
+  background-position: center;
+  border-radius: 0.5rem;
+}
+
+#photo-bois {
+  width: 30vw;
+  height: 20vw;
+  background: linear-gradient(0deg, rgba(150, 150, 150, 0.2) 0%, rgba(150, 150, 150, 0.2) 50%),
+              url(../Images/Ext/Bois/signal-2022-06-04-223750_022.jpeg);
   background-size: cover;
   background-repeat: none;
   background-position: center;
